@@ -993,6 +993,6 @@ footer .top i {
   line-height: 40px;
   transition: 0.4s;
 }
-.cottages .right .image_inner {
+#about .right .cottages .right .image_inner {
     transform: translateY(81px) translateX(64px) !important;
 }
